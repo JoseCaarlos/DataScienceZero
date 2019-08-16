@@ -1,0 +1,39 @@
+Data Science
+	- Habilidade para manipular, analisar e extrair valor dos dados
+	- Aplicações
+		- Logística e Varejo
+		- Mercado Financeiro
+			- Construção de robo para mercado de valores
+		- Tecnologia e Entretenimento
+			- Netflix -> Sistema para recomendação, Novas series
+		- Varejo
+			- Amazon
+				-PLN para fazer resumo e Categorização de avaliações de clientes.
+		- Gestão e Marketing
+			- Campanhas mais acertivas
+		- Educação
+			- Diminuir melhor a evasão dos alunos, aprendizado mais individual
+		- Saúde
+			- Realizar diagnósticos nos pacientes
+
+
+
+BIG DATA - 5 V's
+	- Volume: Grande quantidade de dados.
+	- Velocidade: Processamento em tempo satisfatório.
+	- Variedade: Diversos tipos de dados.
+	- Veracidade: Precisão e acurácia das análises.
+	- Valor: Valor de negócio.
+
+Mineração de dados
+	- Processo para descobrir padrões em grandes conjuntos de dados.
+	- Técnicas e métodos de diversas áreas: Aprendizado de Maquina,
+	Estatísticas e Sistemas de Banco de Dados.
+	
+Machine Learning
+	- Capacidade de aprender a partir dos dados
+	- Habilidade para tomar alguma decisão sem ser explicitamente
+	programada para isso.
+	
+
+

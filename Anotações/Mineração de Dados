@@ -1,0 +1,53 @@
+Mineração de Dados 
+
+	Tarefas Comuns
+		- Classificação e Estimativa de Probabilidade
+			- O objetivo do algoritmo é identificar a quais conjuntos o dados pertence
+			- Mostra a probabilidade de um e-mail ser SPAM ou NÂO
+			
+		- Regressão ou Estimativa de Valor
+			- Predizer valores númericos 
+				EX: Uma telefonia quer prever a quantidade de uso de dados do cliente.
+					Estimar um horário para chegada baseado em variáveis como trânsito e acidentes
+
+		- Combinação por similaridade
+			- Identificação de clientes semelhantes.
+				EX: Identificar clientes bronze, prata e ouro.
+		
+		- Agrupamento 
+			- Segmentar indivíduos baseado em itens em comum
+				EX: Cria Agrupamento mais não sendo supervisionado
+		
+		- Regras de Associação
+			- Cesta de supermercado, itens de compra
+				EX: Quem compra pão também compra manteiga..
+				
+		- Detecção de anomalias
+			- Identificar situações anonomas
+				EX: Transações de financeiras bloqueadas, compras com valores fora do comum, origem da compra.
+				
+		- Habilidade Crucial do Cientista de Dados
+			- Capacidade de decompor um problema analítico de dados.
+	
+	O processo de mineração de dados
+		- O modelo de CRISP-DM (Processo Padrão de Industria Cruzada para Exploração de Dados)
+			- Repetição das etapas é essencial para o processo.
+				- Entendimento do négocio
+				- Entendimento dos dados
+				- Preparação dos dados
+					- Conversão de para formato tabular.
+					- Remoção ou Alteração de valores faltantes.
+					- Normalização ou Padronização dos dados.
+				- Modelagem 
+					- Aplicado técnicas e algoritmos e selecionando o melhores resultados.
+				Avaliação
+					- Resultados dos modelos análisando os seguintes dados:
+						- Accuracy
+						- Tempo de execução e predição
+				Implantação ou Deployee
+					- Machine Learning ou Dashboard 
+					
+					
+					
+			
+			
